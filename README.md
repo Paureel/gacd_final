@@ -20,3 +20,10 @@ You should create one R script called run_analysis.R that does the following.
 * Uses descriptive activity names to name the activities in the data set
 * Appropriately labels the data set with descriptive variable names.
  *From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+ 
+ ## File descriptions
+ * Features.txt: Name of the features  
+ * activity_labels.txt: Name of the activity types and their associated ID  
+ * X_test / X_train.txt: contains the observed values  
+ * y_test/y_train.txt: contains the activity types with ID  
+ * subject_test/subject_train.txt: Contains the subject ID  
