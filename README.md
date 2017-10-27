@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Peer Assessment  
 The code and the related CodeBook can be found in this repository.  
-To run the analysis simply runt the run_analysis.R script.  
+To run the analysis simply run the run_analysis.R script.  
 More information about the script are found in the CodeBook.md file.  
 Be sure to download the raw data first and to set your working directory to "UCI HAR Dataset/" after you unzip the data. The R script must be also located in this directory.  
 ## Description of the assessment  
