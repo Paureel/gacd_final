@@ -6,9 +6,9 @@ The processing steps were the followings:
 * Make a data frame out of the mean and std values of the variables
 * Join the data frames containing the information on the subjects and activity types
 * Rename the variables appropriately
-* Write out the first tidy data set
+* Write out the first tidy data set to tidy1.txt
 * Make a second tidy data set, containing aggregated data for each activity type and subject related to the observations
-* Write out the second tidy data set  
+* Write out the second tidy data set to tidy2.txt  
   
   
 # Dataset information
